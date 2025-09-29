@@ -1,0 +1,23 @@
+{
+  "name": "strapi-cms",
+  "version": "1.0.0",
+  "description": "\"# Strapi CMS for Ncmaz template\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olianayda/strapi-cms-ncmaz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olianayda/strapi-cms-ncmaz/issues"
+  },
+  "homepage": "https://github.com/Olianayda/strapi-cms-ncmaz#readme",
+  "dependencies": {
+    "@strapi/strapi": "^5.24.2"
+  }
+}
